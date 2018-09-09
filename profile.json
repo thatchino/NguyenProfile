@@ -1,0 +1,20 @@
+{
+  "firstName" : "Alex",
+  "lastName" : "Nguyen",
+  "age": 24,
+  "active" : true,
+  "post" : [
+    {
+      "socialMedia" : "twitter",
+      "update" : "Alex just posted: 'Can't wait for my upcoming birthday!'"
+    },
+    {
+      "socialMedia" : "twitter",
+      "update" : "Alex just followed @Drake"
+    },
+    {
+      "socialMedia" : "twitter",
+      "update" : "Alex just posted: 'Anyone else playing the heck out of Spider-man PS4?!'"
+    }
+  ]
+}
